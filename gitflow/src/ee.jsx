@@ -14,6 +14,6 @@ export const Login = () => {
 
 Login()
 
-const hola = 'hola'
+const hola = 'adios'
 
 console.log(hola)
