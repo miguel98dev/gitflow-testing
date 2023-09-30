@@ -31,6 +31,7 @@ function App() {
       </p>
       <button>Login</button>
       <button>Logout</button>
+      <p>hola</p>
     </>
   )
 }
