@@ -13,3 +13,7 @@ export const Login = () => {
 }
 
 Login()
+
+const hola = 'hola'
+
+console.log(hola)
